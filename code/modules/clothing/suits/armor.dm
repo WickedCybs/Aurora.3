@@ -524,7 +524,8 @@
 		/obj/item/melee/baton,
 		/obj/item/handcuffs,
 		/obj/item/device/flashlight,
-		/obj/item/material/twohanded/pike/flag
+		/obj/item/material/twohanded/pike/flag,
+		/obj/item/clothing/head/helmet/legion
 	)
 	armor = list(
 		melee = ARMOR_MELEE_MAJOR,
